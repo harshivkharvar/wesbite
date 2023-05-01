@@ -1,0 +1,155 @@
+.contact h2
+{
+    margin-left: 190px;
+    margin-top: 150px;
+    font-weight: lighter;
+    font-size: 35px;
+    
+}
+
+.contact hr
+{
+    margin-left:700px;
+    width: 250px;
+    margin-top: -10px;
+    position: inherit;
+}
+
+.contact_pro p
+{
+    margin-left: 210px;
+    font-size: 25px;
+    font-weight: lighter;
+    
+}
+.whatsapp a
+{
+    margin-left: 283px;
+    width:500px;
+    
+}
+.whatsapp button
+{
+    width:600px;
+    background-color: rgba(76, 197, 76, 0.911);
+    height: 33px;
+    border-radius: 4px;
+    border:0px solid;
+    color: white;
+    margin-top: 10px;
+    margin-left:-70px;
+}
+.or h2
+{
+    margin-left:730px;
+    font-size:30px;
+    font-weight: 300;
+}
+
+.or p {
+    margin-left: 285px;
+}
+
+.extra p
+{
+    margin-left: 285px;
+    width:920px;
+}
+
+.extra p input
+{
+    width:915px;
+    height:53px;
+}
+ 
+.extra button
+{
+    height:50px;
+    width:230px;
+}
+.extra button i 
+{
+    font-size:15px;
+}
+
+.footer
+{
+    margin-left: 195px;
+    margin-top: 90px;
+}
+
+.hr
+{
+    margin-left:280px;
+    width:950px;
+}
+
+
+
+#div p footer
+{
+  margin-left: 30px;
+}
+
+.table {
+margin-top: 320px;
+margin-left: 285px;
+border-radius: 18px;
+}
+
+
+body {
+    margin: 0;
+    font-family: "Lato", sans-serif;
+  }
+  
+  .sidebar {
+    margin: 0;
+    padding: 0;
+    width: 135px;
+    background-color:rgba(169, 169, 169, 0.205);
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+  }
+  
+  .sidebar a {
+    display: block;
+    color: black;
+    padding: 8px;
+    text-decoration: none;
+  }
+   
+  .sidebar a.active {
+    background-color:rgba(255, 255, 255, 0.719);
+    color: white;
+  }
+  
+  .sidebar a:hover:not(.active) {
+    background-color:rgba(255, 255, 255, 0.719);
+    color: white;
+  }
+  
+  div.content {
+    margin-left: 180px;
+    padding: 0px 10px;
+    height: 1000px;
+  }
+  
+  /* @media screen and (max-width: 700px) {
+    .sidebar {
+      width: 100%;
+      height: auto;
+      position: relative;
+    }
+    .sidebar a {float: left;}
+    div.content {margin-left: 0;}
+  } */
+  
+  /* @media screen and (max-width: 400px) {
+    .sidebar a {
+      text-align: center;
+      float: none;
+    }
+  } */
+  

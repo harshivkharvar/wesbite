@@ -1,0 +1,373 @@
+    #loader {
+    border: 0px solid red;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+#loader img {
+    width: 1440px;
+    height: 822px;
+}
+
+#content {
+    display: none;
+}
+
+.ourservices h2 {
+    margin-top: -5px;
+    margin-left: 157px;
+    margin-bottom: 410px;
+    font-weight: lighter;
+    font-size: 37px;
+}
+
+.ourservices hr {
+    margin-top: -380px;
+    margin-bottom: 550px;
+    margin-left: 157px;
+    width: 250px;
+}
+
+.dropbtn {
+    margin-left: 155px;
+    background-color: rgba(169, 169, 169, 0.445);
+    color: white;
+    width: 990px;
+    height: 40px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 7px;
+}
+
+.dropbtn:hover,
+.dropbtn:focus {
+    background-color: rgba(169, 169, 169, 0.274);
+}
+
+.dropdown {
+    position: relative;
+    margin-top: -530px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 990px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    margin-left: 155px;
+    border-radius: 3px;
+    margin-top: 4px;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown a:hover {
+    background-color: #ddd;
+}
+
+.show {
+    display: block;
+}
+
+.w3-row-padding {
+    margin-top: 20px;
+    margin-bottom: -360px;
+    margin-right: 350px;
+    font-size: 10px;
+}
+
+.w3-row-padding h2 {
+    font-size: 30px;
+}
+
+.ipvanish {
+    border: 0px solid red;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 100px;
+}
+
+.ipvanish_pro {
+    border: 0px solid green;
+    width: 300px;
+    height: 365px;
+    float: left;
+    font-size: 20px;
+    margin-right: -1px;
+    margin-bottom: -100px;
+    margin-top: -100px;
+}
+
+.ipvanish_pro img {
+    margin-top: 35px;
+    margin-left: 62px;
+    margin-bottom: 15px;
+}
+
+.ipvanish_pro h5 {
+    margin-left: 25px;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+.ipvanish_pro h6 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 30px;
+}
+
+.feature h2 {
+    margin-top: 10px;
+    margin-left: 620px;
+    margin-bottom: 30px;
+}
+
+.btnsong a input {
+    height: 45px;
+    width: 250px;
+    border-radius: 7px;
+    color: white;
+    border: 1px;
+    background-color: rgba(219, 9, 9, 0.924);
+    border: 1px solid black;
+    font-size: 22px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+}
+
+.btnsong a input:hover {
+    background-color: rgba(149, 3, 3, 0.924);
+    color: white;
+    cursor: pointer;
+}
+
+.btn {
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn input {
+    height: 45px;
+    width: 250px;
+    border-radius: 7px;
+    color: white;
+    border: 1px;
+    background-color: rgba(219, 9, 9, 0.924);
+    border: 1px solid black;
+    font-size: 22px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+}
+
+.btn input:hover {
+    background-color: rgba(149, 3, 3, 0.924);
+    color: white;
+    cursor: pointer;
+}
+
+.upper hr {
+    margin-left: 157px;
+    margin-top: -60px;
+    width: 987px;
+    margin-bottom: 90px
+}
+
+.rating_div h3 {
+    margin-bottom: 10px;
+    font-size: 30px;
+    margin-left: 278px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.hr {
+    width: 993px;
+    margin-left: 278px;
+}
+
+.rating_div_pro label {
+    margin-left: 680px;
+    font-size: 20px;
+}
+
+.rating_div_pro_star {
+    margin-left: 720px;
+    margin-top: 10px;
+}
+
+.customer input {
+    margin-left: 280px;
+    width: 990px;
+    height: 30px;
+    border-radius: 7px;
+}
+
+.customer input[type="text"] {
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-style: normal;
+    text-align: center;
+}
+
+.customer input[type="email"] {
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-style: normal;
+    text-align: center;
+}
+
+.customer textarea {
+    margin-left: 281px;
+    width: 990px;
+    height: 100px;
+    border-radius: 7px;
+}
+
+.allreviews h3 {
+    font-size: 35px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 162px;
+    font-weight: lighter
+}
+
+.h30 {
+    color: white;
+    margin-bottom: 200px;
+}
+
+.total h4 {
+    margin-left: 620px;
+    margin-top: -70px;
+    margin-bottom: 23px;
+    font-size: 27px;
+}
+
+.total h5 {
+    margin-left: 620px;
+    margin-top: -10px;
+    font-size: 20px;
+}
+
+.ratingsystem_pro {
+    background-color: white;
+    margin-left: 160px;
+    width: 990px;
+}
+
+.ratingsystem_pro h4 {
+    background-color: white;
+    margin-left: -270px;
+}
+
+.ratingsystem_pro p {
+    margin-left: -260px;
+}
+
+.ratingsystem_pro p {
+    color: black;
+}
+
+.ratingreviews h3 {
+    font-size: 27px;
+    margin-left: -550px;
+    margin-top: 20px;
+    margin-bottom: -40px;
+    font-weight: lighter;
+}
+
+.ratingreviews p {
+    margin-left: -550px;
+    margin-top: 50px;
+    margin-bottom: -50px;
+    font-size: 20px;
+}
+
+.table {
+    margin-left: 280px;
+    border-radius: 7px;
+}
+
+body {
+    margin: 0;
+    font-family: "Lato", sans-serif;
+}
+
+.sidebar {
+    margin: 0;
+    padding: 0;
+    width: 135px;
+    background-color: rgba(169, 169, 169, 0.205);
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+.sidebar a {
+    display: block;
+    color: black;
+    padding: 8px;
+    text-decoration: none;
+}
+
+.sidebar a.active {
+    background-color: rgba(255, 255, 255, 0.719);
+    color: white;
+}
+
+.sidebar a:hover:not(.active) {
+    background-color: rgba(255, 255, 255, 0.719);
+    color: white;
+}
+
+div.content {
+    margin-left: 180px;
+    padding: 0px 10px;
+    height: 1000px;
+}
+
+
+/*   
+  @media screen and (max-width: 700px) {
+    .sidebar {
+      width: 100%;
+      height: auto;
+      position: relative;
+    }
+    .sidebar a {float: left;}
+    div.content {margin-left: 0;}
+  }
+  
+  @media screen and (max-width: 400px) {
+    .sidebar a {
+      text-align: center;
+      float: none;
+    }
+  } */
+
+@media screen and (max-width: 700px) {
+    .sidebar {
+        width: 100%;
+        height: 17%;
+        position: absolute;
+    }
+    .sidebar a {
+        float: left;
+    }
+    div.content {
+        margin-left: 0;
+    }

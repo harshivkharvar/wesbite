@@ -1,0 +1,615 @@
+#w3-padding-large
+{
+    margin-top: auto;
+}
+.container img
+{
+  margin-left: 140px;
+  margin-top: 40px;
+}
+
+.heading img{
+    border-radius: 50%;
+    max-width:33%;
+    margin-left: 540px;
+    margin-top: 10px;
+    margin-bottom: -40px;
+    color: white;
+}
+
+.heading h1 {
+    margin-left: 590px;    
+    font-family: Montserrat, sans-serif;
+    font-size: 50px;
+    margin-top: -30px;
+    font-weight:300;
+    line-height: 70px;
+    color: rgb(255, 255, 255);
+}
+.heading h2{
+   
+    margin-left: 600px;    
+    font-family: Montserrat, sans-serif;
+    font-size: 50px;
+    margin-top: -45px;
+    font-weight:100;
+    line-height: 70px;
+    color: rgb(255, 255, 255);
+
+}
+.heading p
+{
+    margin-left: 716px;
+    font-family: Montserrat, sans-serif;
+    font-size: 24px;
+    line-height: 36px;
+    margin-top: -35px;
+    font-weight: 300;
+    color: rgb(255, 255, 255);
+}
+.fcc-btn {
+  background-color: #043504;
+  color: white;
+  padding: 15px 25px;
+  border-radius: 10%;
+  text-decoration: none;
+  margin-left:695px;
+}
+
+.fcc-btn:hover {
+  background-color: green;
+}
+.sticker i
+{
+    margin-top:32px;
+    margin-left: 440px;
+    color:grey;
+    position: absolute;
+}
+.sticker h3
+{
+    margin-top: 110px;
+    margin-left: 350px;
+    font-size: 24px;
+    line-height: 29px;
+    font-family:Montserrat, sans-serif;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    position: absolute;
+}
+.sticker p 
+{
+    margin-top: 145px;
+    margin-left: 376px;
+    font-size: 15px;
+    color: #757575;
+    font-family:Montserrat, sans-serif;
+    line-height: 23px;
+    position: absolute;
+}
+.sticker1 i
+{
+  margin-top:32px;
+  margin-left: 765px;
+  color:grey;
+  position: absolute;
+}
+
+.sticker1 h3
+{
+  margin-top: 110px;
+  margin-left: 665px;
+  font-size: 24px;
+  font-family:Montserrat, sans-serif;
+  color: rgb(255, 255, 255) ;
+  line-height: 29px;
+  font-weight: 400;
+  position: absolute;
+}
+.sticker1 p 
+{
+  margin-top: 145px;
+  margin-left: 715px;
+  font-size: 15px;
+  color:#757575;
+  font-family:Montserrat, sans-serif;
+  line-height: 23px;
+  position: absolute;
+}
+.sticker2 i
+{
+    margin-top:32px;
+    margin-left: 1124px;
+    color:grey;
+    position: absolute;
+}
+.sticker2 h3
+{
+    margin-top: 110px;
+    margin-left: 1045px;
+    font-size: 24px;
+    font-family:Montserrat, sans-serif;
+    color: rgb(255, 255, 255);
+    line-height: 29px;
+    font-weight: 400;
+    position: absolute;
+}
+.sticker2 p 
+{
+    margin-top: 145px;
+    margin-left: 1050px;
+    font-size: 15px;
+    color: #757575;
+    font-family:Montserrat, sans-serif;
+    line-height: 23px;
+    position: absolute;
+}
+.sticker3 i
+{
+    margin-top:225px;
+    margin-left: 530px;
+    color:grey;
+    position: absolute;
+}
+.sticker3 h3
+{
+  margin-top: 300px;
+  margin-left: 450px;
+  font-size: 24px;
+  font-style: normal;
+  font-family:Montserrat, sans-serif;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-weight: 400;
+  line-height: 29px;
+}
+.sticker3 p 
+{
+  margin-top: 340px;
+  margin-left: 455px;
+  font-size: 15px;
+  color: #757575;
+  font-family:Montserrat, sans-serif;
+  position: absolute;
+  line-height: 23px;
+}
+.sticker4 i
+{
+    margin-top:225px;
+    margin-left: 1024px;
+    color:grey;
+    position: absolute;
+}
+.sticker4 h3
+{
+    margin-top: 300px;
+    margin-left: 920px;
+    font-size: 24px;
+    font-family:Montserrat, sans-serif;
+    color: rgb(255, 255, 255);
+    line-height: 29px;
+    font-weight: 400; 
+    position: absolute;
+}
+.sticker4 p 
+{
+    margin-top: 340px;
+    margin-left: 955px;
+    font-size: 15px;
+    color: #757575;
+    font-family:Montserrat, sans-serif;
+    line-height: 23px;
+    position: absolute;
+}
+.whatsappimages img
+{
+  margin-left: 180px;
+  margin-top: 400px;
+}
+.whatsappimages button
+{
+  margin-left:170px;
+}
+.fa {
+    padding: 15px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    margin-left: 125px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    margin-left: 250px;
+    margin-right: -50px;
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    margin-left:210px;
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+  .fa-pinterest {
+    background: #cb2027;
+    color: white;
+  }
+  
+  .fa-snapchat-ghost {
+    background: #fffc00;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  }
+
+  #div p footer
+  {
+      margin-left: 30px;
+  }
+
+  .table {
+    margin-left: 240px;
+    border-radius: 7px;
+}
+
+
+
+
+
+body {
+    margin: 0;
+    font-family: "Lato", sans-serif;
+  }
+  
+  .sidebar {
+    margin: 0;
+    padding: 0;
+    width: 135px;
+    background-color:rgba(169, 169, 169, 0.205);
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+  }
+  
+  .sidebar a {
+    display: block;
+    color: black;
+    padding: 8px;
+    text-decoration: none;
+  }
+   
+  .sidebar a.active {
+    background-color:rgba(255, 255, 255, 0.854);
+    color: white;
+  }
+  
+  .sidebar a:hover:not(.active) {
+    background-color:rgba(255, 255, 255, 0.719);
+    color: white;
+  }
+ 
+  div.content {
+    margin-left: 180px;
+    padding: 0px 10px;
+    height: 1000px;
+  }
+  
+  @media screen and (max-width: 700px) {
+    .sidebar {
+      max-width: 140px;
+      height: auto;
+      position: relative;
+    }
+    .sidebar a {float: left;}
+    div.content {margin-left: 0;}
+    .container img
+{
+  margin-left: 135px;
+  margin-top: 40px;
+  
+}
+.heading {
+  border-radius: 50%;
+  width: 40%;
+  margin-left: 270px;
+  margin-top: 100px;
+  margin-bottom: 60px;
+  align-items: center;
+}
+.heading h1{
+  font-size: small;
+}
+.sidebar {
+  margin: 0;
+  padding: 0;
+  max-width: 140px;
+  background-color:rgba(169, 169, 169, 0.205);
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+.sidebar a {
+  display: block;
+  color: black;
+  padding: 8px;
+  text-decoration: none;
+}
+ 
+.sidebar a.active {
+  background-color:rgba(255, 255, 255, 0.719);
+  color: white;
+}
+
+.sidebar a:hover:not(.active) {
+  background-color:rgba(255, 255, 255, 0.719);
+  color: white;
+}
+
+div.content {
+  margin-left: 180px;
+  padding: 0px 10px;
+  height: 1000px;
+}
+.text-center0 {
+  margin-left: 170px;    
+  font-family:  Arial, Helvetica, sans-serif;
+  font-size: 65px;
+  margin-top: -30px;
+  font-weight:100;
+  
+  
+}
+.text-center1{
+ 
+  margin-left: 157px;    
+  font-family:  Arial, Helvetica, sans-serif;
+  font-size: 65px;
+  margin-top: -45px;
+  font-weight:100;
+
+}
+.text-center2
+{
+  margin-left: 700px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  margin-top: 50px;
+}
+#shortcutBtns .w3-row w3-center .link a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.link a:hover, a:active {
+  background-color: red;
+}
+.sticker i
+{
+    margin-top:-60px;
+    margin-left: 370px;
+    color:grey;
+}
+.sticker h3
+{
+    margin-top: -25px;
+    margin-left: 224px;
+    font-size: 35px;
+    font-family:Montserrat, sans-serif;
+}
+.sticker p 
+{
+    margin-top: -24px;
+    margin-left: 240px;
+    font-size: 22px;
+    color: grey;
+    font-family:Montserrat, sans-serif;
+}
+.sticker1 i
+{
+    margin-top:24px;
+    margin-left: 370px;
+    margin-bottom: 0px;
+    color:grey;
+}
+.sticker1 h3
+{
+    margin-top: 10px;
+    margin-left: 190px;
+    font-size: 35px;
+    font-family:Montserrat, sans-serif;
+}
+.sticker1 p 
+{
+    margin-top: -24px;
+    margin-left: 260px;
+    font-size: 22px;
+    color: grey;
+    font-family:Montserrat, sans-serif;
+}
+.sticker2 i
+{
+    margin-top:24px;
+    margin-left: 380px;
+    color:grey;
+}
+.sticker2 h3
+{
+    margin-top: -24px;
+    margin-left: 230px;
+    font-size: 35px;
+    font-family:Montserrat, sans-serif;
+}
+.sticker2 p 
+{
+    margin-top: -24px;
+    margin-left: 224px;
+    font-size: 22px;
+    color: grey;
+    font-family:Montserrat, sans-serif;
+}
+.sticker3 i
+{
+    margin-top:40px;
+    margin-left: 380px;
+    color:grey;
+}
+.sticker3 h3
+{
+    margin-top: -24px;
+    margin-left: 240px;
+    font-size: 35px;
+    font-family:Montserrat, sans-serif;
+}
+.sticker3 p 
+{
+    margin-top: -24px;
+    margin-left: 230px;
+    font-size: 22px;
+    color: grey;
+    font-family:Montserrat, sans-serif;
+}
+.sticker4 i
+{
+    margin-top:25px;
+    margin-left: 377px;
+    color:grey;
+}
+.sticker4 h3
+{
+    margin-top: -24px;
+    margin-left: 205px;
+    font-size: 35px;
+    font-family:Montserrat, sans-serif;
+}
+.sticker4 p 
+{
+    margin-top: -24px;
+    margin-left: 230px;
+    font-size: 22px;
+    color: grey;
+    font-family:Montserrat, sans-serif;
+}
+.whatsappimages img
+{
+  margin-left: 140px;
+}
+.whatsappimages button
+{
+  margin-left:140px;
+}
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  margin-left: 125px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  margin-left: 124px;
+  margin-right: -50px;
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  margin-left:100px;
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  margin-left:40px;
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  margin-left: 40px;
+  background: #88123f;
+  color: white;
+}
+
+.fa-pinterest {
+  margin-left:30px;
+  background: #cb2027;
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  margin-left: 40px;
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#div p footer
+{
+    margin-left: 30px;
+    width:auto;
+}
+
+.table {
+  margin-left: 124px;
+  border-radius: 7px;
+  
+}
+
+  }
+  
+  @media screen and (max-width: 400px) {
+    .sidebar a {
+      text-align: center;
+      float: none;
+    }
+  }

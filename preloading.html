@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Loader</title>
+
+<script>
+     window.onload=function()
+     {
+            document.getElementById('loader').style.display="none";
+            document.getElementById('content').style.display="block";
+     }
+</script>
+
+<style>
+    #loader
+    {
+        border:0px solid red;
+        position: absolute;
+        margin: auto;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right:0;
+        
+    }
+    #loader img
+    {
+        width: 1440px;
+        height: 822px;
+        
+    }
+    #content
+    {
+        display: none;
+
+    }
+   
+</style>
+
+</head>
+
+
+<body>
+
+<div id="loader">
+    <img src="loading.gif">
+
+</div>
+
+
+<div id="content"> 
+    <img src="1.jpg">
+    <img src="2.jpg">
+    <img src="3.jpg">
+</div>
+
+</body>
+</html>
